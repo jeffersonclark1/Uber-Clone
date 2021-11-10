@@ -15,8 +15,13 @@ node
 ```
 npm i
 ```
+3 - .env
 
-3 - Rodar projeto
+```
+GOOGLE_MAP_APIKEY=TOKEN API
+```
+
+4 - Rodar projeto
 
 Node utilizado v16.11.1
 
