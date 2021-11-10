@@ -18,6 +18,8 @@ npm i
 
 3 - Rodar projeto
 
+Node utilizado v16.11.1
+
 ```
  expo start
 ```
